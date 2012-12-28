@@ -4,7 +4,6 @@ maintainer_email  "github@phlippers.net"
 license           "MIT"
 description       "Install libqt4 packages"
 version           "0.1.0"
-depends           "cmake"
 supports          "ubuntu"
 
 recipe "default",     "Install a relatively complete of libqt4 packages"
